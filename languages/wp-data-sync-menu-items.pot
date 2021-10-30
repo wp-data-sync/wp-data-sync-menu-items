@@ -1,0 +1,39 @@
+# Copyright (C) 2021 WP Data Sync
+# This file is distributed under the same license as the WP Data Sync - Menu Items plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Data Sync - Menu Items 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-data-sync-menu-items\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-10-30T18:10:41+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.1.0\n"
+"X-Domain: wp-data-sync-menu-item\n"
+
+#. Plugin Name of the plugin
+msgid "WP Data Sync - Menu Items"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpdatasync.com/products/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Sync menu items form WordPress website to another WordPress website"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Data Sync"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpdatasync.com"
+msgstr ""
+
+#: includes/functions/admin-notice.php:24
+msgid "NOTICE: The WP Data Sync plugin is required to use WP Data Sync Menu Items"
+msgstr ""

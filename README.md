@@ -32,6 +32,6 @@ Allow the WP Data Sync API and the WP Data Sync Menu Items plugin to create a ne
 
 * [WP Data Sync](https://wpdatasync.com "WP Data Sync")
 * [WP Data Sync Blog](https://wpdatasync.com/blog/ "WP Data Sync Blog")
-* [Developer Documentation](https://wpdatasync.com/docunentation/ "Developer Documentation")
+* [Developer Documentation](https://wpdatasync.com/documentation/ "Developer Documentation")
 
 __[Change Log](https://wpdatasync.com/plugin/wp-data-sync-menu-items/ "Change Log")__
